@@ -11,5 +11,5 @@
 #include <vector>
 #include <map>
 #include <cstdint>
-
+std::string quiz (const std::string question,std::string reponse1,std::string reponse2,std::string reponse3,std::string reponse4);
 #endif
