@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/lajol-l3info-tp_cpp_bases-99e121857396/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -o CMakeFiles/exo_cpp_base.dir/main.cpp.o -c /workspaces/lajol-l3info-tp_cpp_bases-99e121857396/main.cpp",
+  "file": "/workspaces/lajol-l3info-tp_cpp_bases-99e121857396/main.cpp"
+},
+{
+  "directory": "/workspaces/lajol-l3info-tp_cpp_bases-99e121857396/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -o CMakeFiles/exo_cpp_base.dir/exercices.cpp.o -c /workspaces/lajol-l3info-tp_cpp_bases-99e121857396/exercices.cpp",
+  "file": "/workspaces/lajol-l3info-tp_cpp_bases-99e121857396/exercices.cpp"
+}
+]
