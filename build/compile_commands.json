@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/quizInteractif/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/quiz.dir/src/quiz.cpp.o -c /workspaces/quizInteractif/src/quiz.cpp",
+  "file": "/workspaces/quizInteractif/src/quiz.cpp"
+}
+]
