@@ -1,0 +1,3 @@
+/workspaces/quizInteractif/build/CMakeFiles/rebuild_cache.dir
+/workspaces/quizInteractif/build/CMakeFiles/edit_cache.dir
+/workspaces/quizInteractif/build/CMakeFiles/quiz.dir
