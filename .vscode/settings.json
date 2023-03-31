@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "cpp",
-        "cmath": "cpp",
-        "ostream": "cpp"
-    },
-    "cmake.sourceDirectory": "/workspaces/quizInteractif",
-    "C_Cpp.errorSquiggles": "disabled"
-}

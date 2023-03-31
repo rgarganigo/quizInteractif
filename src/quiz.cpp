@@ -1,63 +1,76 @@
 #include <iostream>
 #include <string>
+
+#include "quiz.h"
+
 using namespace std;
 
-std::string quiz::getquestion() const
+Quiz::Quiz(const std::string &question, const std::string &reponse1, const std::string &reponse2,
+         const std::string &reponse3, const std::string &reponse4, int bonneReponse)
+    : question(question)
+    , reponse1(reponse1)
+    , reponse2(reponse2)
+    , reponse3(reponse3)
+    , reponse4(reponse4)
+    , bonneReponse(bonneReponse)
+{
+}
+
+std::string Quiz::getquestion() const
 {
     return question;
 }
 
-quiz::setquestion(std::string question)
+void Quiz::setquestion(std::string question)
 {
-
     question = question;
 }
-std::string quiz::getreponse1() const
+std::string Quiz::getreponse1() const
 {
     return reponse1;
 }
 
-void quiz::setreponse1(std::string reponse1)
+void Quiz::setreponse1(std::string reponse1)
 {
     reponse1 = reponse1;
 }
 
-std::string quiz::getreponse2() const
+std::string Quiz::getreponse2() const
 {
     return reponse2;
 }
 
-void quiz::setreponse2(std::string reponse2)
+void Quiz::setreponse2(std::string reponse2)
 {
     reponse2 = reponse2;
 }
 
-std::string quiz::getreponse3() const
+std::string Quiz::getreponse3() const
 {
     return reponse3;
 }
 
-void quiz::setreponse3(std::string reponse3)
+void Quiz::setreponse3(std::string reponse3)
 {
     reponse3 = reponse3;
 }
 
-std::string quiz::getreponse4() const
+std::string Quiz::getreponse4() const
 {
     return reponse4;
 }
 
-void quiz::setreponse4(std::string reponse4)
+void Quiz::setreponse4(std::string reponse4)
 {
     reponse4 = reponse4;
 }
 
-int quiz::getbonneReponse() const
+int Quiz::getbonneReponse() const
 {
     return bonneReponse;
 }
 
-void quiz::setbonneReponse(int bonneReponse)
+void Quiz::setbonneReponse(int bonneReponse)
 {
     bonneReponse = bonneReponse;
 }
