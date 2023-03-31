@@ -1,0 +1,174 @@
+q: Quel est le plus grand pays d'Europe en termes de superficie ?
+r1: France
+r2: Russie
+r3: Allemagne
+r4: Espagne
+br: 2
+
+q: Quel est l'élément chimique le plus abondant dans l'air que nous respirons ?
+r1: Azote
+r2: Oxygène
+r3: Argon
+r4: Dioxyde de carbone
+br: 1
+
+q: Qui est l'auteur de la célèbre pièce de théâtre "Roméo et Juliette" ?
+r1: William Shakespeare
+r2: Molière
+r3: Victor Hugo
+r4: Charles Dickens
+br: 1
+
+q: Quelle est la planète la plus proche du soleil ?
+r1: Mars
+r2: Vénus
+r3: Mercure
+r4: Jupiter
+br: 3
+
+q: Combien de pays composent l'Union européenne en 2023 ?
+r1: 23
+r2: 27
+r3: 30
+r4: 33
+br: 2
+
+q: Quel est le plus grand océan de la Terre ?
+r1: Océan Pacifique
+r2: Océan Atlantique
+r3: Océan Indien
+r4: Océan Arctique
+br: 1
+
+q: Qui a peint la célèbre toile "La Joconde" ?
+r1: Vincent Van Gogh
+r2: Claude Monet
+r3: Pablo Picasso
+r4: Léonard de Vinci
+br: 4
+
+q: Quelle est la capitale de l'Australie ?
+r1: Melbourne
+r2: Sydney
+r3: Brisbane
+r4: Canberra
+br: 4
+
+q: Quel est le plus grand animal terrestre vivant actuellement sur Terre ?
+r1: Girafe
+r2: Éléphant
+r3: Rhinocéros
+r4: Hippopotame
+br: 2
+
+q: Qui a découvert la gravité ?
+r1: Isaac Newton
+r2: Albert Einstein
+r3: Charles Darwin
+r4: Galilée Galiléo
+br: 1
+
+q: Quelle est la distance approximative entre la Terre et le Soleil en kilomètres ?
+r1: 50,000 km
+r2: 100,000 km
+r3: 150,000 km
+r4: 150,000,000 km
+br: 4
+
+q: Quel est le plus haut sommet d'Afrique ?
+r1: Mont Kilimandjaro
+r2: Mont Everest
+r3: Mont McKinley
+r4: Mont Vinson
+br: 1
+
+q: Quelle est la plus grande ville de France ?
+r1: Lyon
+r2: Marseille
+r3: Paris
+r4: Bordeaux
+br: 3
+
+q: Quel est le plus grand désert du monde ?
+r1: Le Sahara
+r2: Le Kalahari
+r3: Le Gobi
+r4: L'Atacama
+br: 1
+
+q: Qui a écrit "Les Misérables" ?
+r1: Victor Hugo
+r2: Emile Zola
+r3: Gustave Flaubert
+r4: Guy de Maupassant
+br: 1
+
+q: Quel est le nom de la force qui maintient les pieds collés au sol lorsqu'on saute ?
+r1: Gravité
+r2: Inertie
+r3: Électricité
+r4: Magnétisme
+br: 1
+
+q: Qui a fondé Microsoft ?
+r1: Steve Jobs
+r2: Bill Gates
+r3: Jeff Bezos
+r4: Mark Zuckerberg
+br: 2
+
+q: Quel est le plus grand pays d'Amérique du Sud en termes de superficie ?
+r1: Brésil
+r2: Argentine
+r3: Pérou
+r4: Colombie
+br: 1
+
+q: Quel est le nom de la célèbre statue située à Rio de Janeiro, au Brésil ?
+r1: Le Colosse de Rhodes
+r2: La Statue de la Liberté
+r3: Le Christ Rédempteur
+r4: La Tour Eiffel
+br: 3
+
+q: Quel est le nom du célèbre explorateur qui a découvert l'Amérique en 1492 ?
+r1: Christopher Columbus
+r2: Vasco de Gama
+r3: Ferdinand Magellan
+r4: Marco Polo
+br: 1
+
+q: Dans quelle ville se trouve la tour Eiffel ?
+r1: Londres
+r2: New York
+r3: Paris
+r4: Rome
+br: 3
+
+q: Qui a écrit "Le Petit Prince" ?
+r1: Victor Hugo
+r2: Antoine de Saint-Exupéry
+r3: Marcel Proust
+r4: Albert Camus
+br: 2
+
+q: Quelle est la plus grande île du monde ?
+r1: Madagascar
+r2: Groenland
+r3: Nouvelle-Guinée
+r4: Bornéo
+br: 2
+
+q: Quelle est la plus grande chaîne de montagnes au monde ?
+r1: Les Andes
+r2: Les Rocheuses
+r3: L'Himalaya
+r4: Les Alpes
+br: 3
+
+q: Qui a écrit "1984" ?
+r1: George Orwell
+r2: Aldous Huxley
+r3: Ray Bradbury
+r4: Kurt Vonnegut
+br: 1
