@@ -2,32 +2,62 @@
 #include <string>
 using namespace std;
 
-int main() {
-    // Entrée de la question
-    string question = "Quelle est la capitale de l'Espagne ?";
-    string reponse1 = "Madrid";
-    string reponse2 = "Barcelone";
-    string reponse3 = "Séville";
-    string reponse4 = "Valence";
-    int bonneReponse;
-    
-    cout << "Voici la question : " << question << endl;
-    // Affichage des réponses
-    cout << "1. " << reponse1 << endl;
-    cout << "2. " << reponse2 << endl;
-    cout << "3. " << reponse3 << endl;
-    cout << "4. " << reponse4 << endl;
+std::string quiz::getquestion() const
+{
+    return question;
+}
 
-    // Entrée de la réponse correcte
-    cout << "Entrez le numéro de la réponse correcte (1, 2, 3 ou 4) : ";
-    cin >> bonneReponse ;
+quiz::setquestion(std::string question)
+{
 
-    // Vérification de la réponse de l'utilisateur
-    if (bonneReponse == 1) {
-       cout << "\nLa réponse est correcte !" << endl;
-    } else {
-        cout << "\nLa réponse est incorrecte." << endl;
-    }
+    question = question;
+}
+std::string quiz::getreponse1() const
+{
+    return reponse1;
+}
 
-    return 0;
+void quiz::setreponse1(std::string reponse1)
+{
+    reponse1 = reponse1;
+}
+
+std::string quiz::getreponse2() const
+{
+    return reponse2;
+}
+
+void quiz::setreponse2(std::string reponse2)
+{
+    reponse2 = reponse2;
+}
+
+std::string quiz::getreponse3() const
+{
+    return reponse3;
+}
+
+void quiz::setreponse3(std::string reponse3)
+{
+    reponse3 = reponse3;
+}
+
+std::string quiz::getreponse4() const
+{
+    return reponse4;
+}
+
+void quiz::setreponse4(std::string reponse4)
+{
+    reponse4 = reponse4;
+}
+
+int quiz::getbonneReponse() const
+{
+    return bonneReponse;
+}
+
+void quiz::setbonneReponse(int bonneReponse)
+{
+    bonneReponse = bonneReponse;
 }
